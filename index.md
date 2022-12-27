@@ -1,8 +1,8 @@
 # 跳舞的线及其饭制作品Wiki - 状态公告
 
-## 2022/12/19 - <span style="color: purple;">[预计发生]</span>Miraheze服务器维护
+## 2022/12/19 - <span style="color: green;">[已结束]</span>Miraheze服务器维护
 
-Miraheze将在12月19日（下周一）05:00~13:00时段进行服务器维护。在此期间本Wiki可能会出现无法访问或者只读的情况。
+Miraheze已经在12月19日（下周一）05:00~13:00时段完成服务器维护。
 
 ## 2022/11/22 - <span style="color: green;">[已恢复]</span>受影响的服务已全部恢复
 
