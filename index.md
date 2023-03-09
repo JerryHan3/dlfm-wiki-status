@@ -1,8 +1,10 @@
 # 跳舞的线及其饭制作品Wiki - 状态公告
 
-## 2023/3/1 - <span style="color: purple;">[预计发生]</span>Miraheze数据库维护
+![Status Icon](https://img.shields.io/website?down_color=critical&down_message=%E6%95%85%E9%9A%9C&label=%E7%AB%99%E7%82%B9%E7%8A%B6%E6%80%81&logo=wikipedia&up_color=success&up_message=%E5%9C%A8%E7%BA%BF&url=https%3A%2F%2Fdlfm-wiki%2Ctop)
 
-Miraheze将在2023年3月1日03:00~05:00时段进行数据库维护。在此期间本Wiki可能会出现只读的情况。
+## 2023/3/1 - <span style="color: green;">[已结束]</span>Miraheze数据库维护
+
+Miraheze已经在2023年3月1日03:00~05:00时段完成数据库维护。
 
 ## 2022/12/19 - <span style="color: green;">[已结束]</span>Miraheze服务器维护
 
