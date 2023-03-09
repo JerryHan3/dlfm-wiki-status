@@ -1,6 +1,6 @@
 # 跳舞的线及其饭制作品Wiki - 状态公告
 
-<a href="https://dlfm-wiki.top"><img alt="Status" src="https://img.shields.io/website?down_color=critical&down_message=%E6%95%85%E9%9A%9C&label=%E7%AB%99%E7%82%B9%E7%8A%B6%E6%80%81&logo=wikipedia&up_color=success&up_message=%E5%9C%A8%E7%BA%BF&url=https%3A%2F%2Fdlfm-wiki%2Ctop"></a>  <a href="https://discord.gg/spjp66R6gn"><img alt="Discord" src="https://img.shields.io/discord/1044836150826782822?color=blueviolet&label=%E6%9C%8D%E5%8A%A1%E5%99%A8&logo=discord&logoColor=white"></a>
+<a href="https://stats.uptimerobot.com/k0RQzHkQL4"><img alt="Uptime Robot ratio (7 days)" src="https://img.shields.io/uptimerobot/ratio/7/m793880714-29ede73e424811359356b5ba?label=%E5%9C%A8%E7%BA%BF"></a>  <a href="https://discord.gg/spjp66R6gn"><img alt="Discord" src="https://img.shields.io/discord/1044836150826782822?color=blueviolet&label=%E6%9C%8D%E5%8A%A1%E5%99%A8&logo=discord&logoColor=white"></a>
 
 ## 2023/3/1 - <span style="color: green;">[已结束]</span>Miraheze数据库维护
 
