@@ -2,6 +2,12 @@
 
 <a href="https://stats.uptimerobot.com/k0RQzHkQL4"><img alt="Uptime Robot ratio (7 days)" src="https://img.shields.io/uptimerobot/ratio/7/m793880714-29ede73e424811359356b5ba?label=%E5%9C%A8%E7%BA%BF"></a>  <a href="https://discord.gg/spjp66R6gn"><img alt="Discord" src="https://img.shields.io/discord/1044836150826782822?color=blueviolet&label=%E6%9C%8D%E5%8A%A1%E5%99%A8&logo=discord&logoColor=white"></a>
 
+## 2023/4/11 - <span style="color: orange;">[部分服务异常]</span>文件服务异常
+
+Miraheze的文件服务器发生磁盘故障，目前无法正常加载、上传图片、音频等各类文件。
+
+本次发生故障的服务器为文件访问鉴权及流量转发服务器，真正存储文件的服务器不受影响，因此已上传的文件没有丢失。
+
 ## 2023/3/1 - <span style="color: green;">[已结束]</span>Miraheze数据库维护
 
 Miraheze已经在2023年3月1日03:00~05:00时段完成数据库维护。
