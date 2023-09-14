@@ -2,6 +2,10 @@
 
 <a href="https://stats.uptimerobot.com/k0RQzHkQL4"><img alt="Uptime Robot ratio (7 days)" src="https://img.shields.io/uptimerobot/ratio/7/m793880714-29ede73e424811359356b5ba?label=%E5%9C%A8%E7%BA%BF"></a>  <a href="https://discord.gg/spjp66R6gn"><img alt="Discord" src="https://img.shields.io/discord/1044836150826782822?color=blueviolet&label=%E6%9C%8D%E5%8A%A1%E5%99%A8&logo=discord&logoColor=white"></a>
 
+## 2023/9/14 - <span style="color: red;">[严重]</span>托管服务遭受DDOS攻击
+
+Miraheze正在遭受DDOS攻击，访问Wiki时可能会出现卡顿，无法加载的情况，请耐心等待。
+
 ## 2023/4/11 - <span style="color: green;">[已结束]</span>文件服务异常
 
 2023/4/16更新：文件已恢复，但暂时无法上传新文件。请耐心等待Miraheze完成恢复工作。
