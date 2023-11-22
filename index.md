@@ -2,9 +2,11 @@
 
 <a href="https://stats.uptimerobot.com/k0RQzHkQL4"><img alt="Uptime Robot ratio (7 days)" src="https://img.shields.io/uptimerobot/ratio/7/m793880714-29ede73e424811359356b5ba?label=%E5%9C%A8%E7%BA%BF"></a>  <a href="https://discord.gg/spjp66R6gn"><img alt="Discord" src="https://img.shields.io/discord/1044836150826782822?color=blueviolet&label=%E6%9C%8D%E5%8A%A1%E5%99%A8&logo=discord&logoColor=white"></a>
 
-## 2023/11/18 - <span style="color: red;">[故障]</span>部分服务异常
+## 2023/11/18 - <span style="color: green;">[已结束]</span>部分服务异常
 
-Miraheze的服务出现暂时性的故障，目前暂时恢复了Wiki的访问，但是访问速度较平时更慢，且目前无法加载所有文件。请耐心等待Miraheze修复问题，期间暂时不要上传文件。
+文件服务器已经恢复。
+
+~~Miraheze的服务出现暂时性的故障，目前暂时恢复了Wiki的访问，但是访问速度较平时更慢，且目前无法加载所有文件。请耐心等待Miraheze修复问题，期间暂时不要上传文件。~~
 
 ## 2023/9/14 - <span style="color: green;">[已结束]</span>托管服务遭受DDOS攻击
 
