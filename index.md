@@ -2,9 +2,13 @@
 
 <a href="https://stats.uptimerobot.com/k0RQzHkQL4"><img alt="Uptime Robot ratio (7 days)" src="https://img.shields.io/uptimerobot/ratio/7/m793880714-29ede73e424811359356b5ba?label=%E5%9C%A8%E7%BA%BF"></a>  <a href="https://discord.gg/spjp66R6gn"><img alt="Discord" src="https://img.shields.io/discord/1044836150826782822?color=blueviolet&label=%E6%9C%8D%E5%8A%A1%E5%99%A8&logo=discord&logoColor=white"></a>
 
-## 2024/1/27 - <span style="color: red;">[宕机]</span>数据库异常
+## 2024/10/8 - <span style="color: red;">[宕机]</span>MediaWiki更新异常
 
-Miraheze在服务器迁移之后遇到了数据库的错误，正在紧急抢修中，期间跳舞的线及其饭制作品Wiki无法正常访问。数据并没有丢失，请耐心等待维护结束。
+目前部分用户无法访问Miraheze的站点（报错500），志愿者表示是Mediawiki更新出错所致。技术团队正在抢修之中，请耐心等待。
+
+## 2024/1/27 - <span style="color: green;">[已结束]</span>数据库异常
+
+Miraheze在服务器迁移之后遇到了数据库的错误，目前已恢复正常。
 
 ## 2023/11/18 - <span style="color: green;">[已结束]</span>部分服务异常
 
