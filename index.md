@@ -2,6 +2,10 @@
 
 <a href="https://stats.uptimerobot.com/k0RQzHkQL4"><img alt="Uptime Robot ratio (7 days)" src="https://img.shields.io/uptimerobot/ratio/7/m793880714-29ede73e424811359356b5ba?label=%E5%9C%A8%E7%BA%BF"></a>  <a href="https://discord.gg/spjp66R6gn"><img alt="Discord" src="https://img.shields.io/discord/1044836150826782822?color=blueviolet&label=%E6%9C%8D%E5%8A%A1%E5%99%A8&logo=discord&logoColor=white"></a>
 
+## 2026/10/21 - <span style="color: DarkOrange;">[等待上游更新]</span>紧急维护
+
+PHP宣布将修复两个 CVSS v4.0 评分高达 9.2 的安全漏洞。在补丁应用前，Wiki站点将暂停服务。
+
 ## 2024/10/8 - <span style="color: green;">[已恢复]</span>MediaWiki更新异常
 
 先前部分用户无法访问Miraheze的站点（报错500），志愿者表示是Mediawiki更新出错所致。目前已抢修完成。
